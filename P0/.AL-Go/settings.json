@@ -1,0 +1,13 @@
+{
+  "bcptTestFolders": [],
+  "appDependencyProbingPaths": [
+    {
+      "release_status": "include",
+      "projects": "P3,P2",
+      "repo": "."
+    }
+  ],
+  "country": "dk",
+  "testFolders": [],
+  "appFolders": []
+}
